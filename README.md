@@ -1,0 +1,5 @@
+-- <b>Hello I'm Brenden McCabe!</b>
+- This is where I host the majority of my professional projects including discord applications, scrapers, and other general use applications
+- I'm a senior at Arkansas Tech University
+- I'm fluent in C++, C#, Java, JavaScript, SQL, and HTML (if that counts).
+- Can program in Python and some variants of it though experience is minimal.
