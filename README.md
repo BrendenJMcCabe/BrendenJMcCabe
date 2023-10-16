@@ -1,5 +1,6 @@
 -- <b>Hello I'm Brenden McCabe!</b>
-- This is where I host the majority of my professional projects including discord applications, scrapers, and other general use applications
-- I'm a senior at Arkansas Tech University
-- I'm fluent in C++, C#, Java, JavaScript, SQL, and HTML (if that counts).
+- This is where I store the majority of my professional projects.
+- Projects include My discord bot(s), backend website code, along with other miscellaneous projects.
+- I'm a Business Analyst at Gainwell Technologies.
+- I'm fluent in C++, C#, Java, JavaScript, SQL, and HTML.
 - Can program in Python and some variants of it though experience is minimal.
