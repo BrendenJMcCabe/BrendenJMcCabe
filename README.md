@@ -1,6 +1,6 @@
--- <b>Hello I'm Brenden McCabe!</b>
-- This is where I store the majority of my professional projects.
-- Projects include My discord bot(s), backend website code, along with other miscellaneous projects.
+-- <b>Hello I'm Brenden!</b>
+- This is where I store some of my professional projects.
 - I'm a Business Analyst at Gainwell Technologies.
-- I'm fluent in C++, C#, Java, JavaScript, SQL, and HTML.
-- Can program in Python and some variants of it though experience is minimal.
+- Professional Experience in javascript, C#, SQL.
+- Additional experience in C++
+- I have more web-based projects hosted at https://khaljasper.com
